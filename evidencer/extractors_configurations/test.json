@@ -1,0 +1,7 @@
+{
+  "name": "test configuration",
+  "extractor": "test_extractor",
+  "parameters" : {
+    "re": "."
+ }
+}
