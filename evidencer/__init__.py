@@ -1,6 +1,7 @@
 import os
 import glob
 
+
 class DefaultDirectory:
 
     package_directory = os.path.abspath(os.path.dirname(__file__))
@@ -37,4 +38,5 @@ class Evidencer:
 
     def extract(self, extractor_name, extractor_parameters):
         pass
+
 
