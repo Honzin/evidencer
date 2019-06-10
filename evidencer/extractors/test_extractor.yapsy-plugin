@@ -1,5 +1,5 @@
 [Core]
-Name = Test Extractor
+Name = test_extractor
 Module = test_extractor     
 
 [Documentation]
