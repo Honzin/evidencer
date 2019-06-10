@@ -1,0 +1,7 @@
+{
+  "pre_configuration_name": "test configuration in dir",
+  "extractor": "test_extractor",
+  "parameters" : {
+    "re": "."
+ }
+}

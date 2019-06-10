@@ -1,0 +1,8 @@
+[Core]
+Name = test_extractor
+Module = test_extractor     
+
+[Documentation]
+Author = Jan Seda
+Version = 0.1
+Description = Test extractor plugin for project Evidencer
