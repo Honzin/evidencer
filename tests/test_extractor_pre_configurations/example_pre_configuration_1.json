@@ -1,7 +1,6 @@
 {
   "pre_configuration_name": "test_configuration",
   "parameters" : {
-    "specific": "-",
-    "constant": "c"
+    "label": "Component A"
  }
 }

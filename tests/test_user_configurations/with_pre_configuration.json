@@ -1,0 +1,10 @@
+{"configurations" :  [
+  {
+    "extraction_name": "test_configuration_with_pre_configuration",
+    "extractor":  "test_extractor",
+    "pre_configuration": "test_configuration",
+    "parameters": {
+      "file": "../test_logs/component_A_log*.txt"
+    }
+  }
+]}
